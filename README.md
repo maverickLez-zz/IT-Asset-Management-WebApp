@@ -44,3 +44,13 @@ Some Constraints & Instructions to setup:-
 (6).Start with "login.php" in your browser
 
 ----------------------------------------------------------------------------------
+
+Some Screenshots of the same
+ 
+----------------------------------------------------------------------------------
+
+![](https://github.com/parthvyas7/IT-Asset-Management-WebApp/blob/master/img/localhost_test_login.php.png "screenshot 1")
+
+![](https://github.com/parthvyas7/IT-Asset-Management-WebApp/blob/master/img/localhost_test_welcome.php%20(1).png "screenshot 2")
+
+![](https://github.com/parthvyas7/IT-Asset-Management-WebApp/blob/master/img/localhost_test_welcome.php.png "screenshot 3")
