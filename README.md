@@ -2,31 +2,28 @@
 
 It is basically partial project (server-side) for assisting in sending IT assets installation reports in an organisation to main server from any device connected to that intra-net 
 
---------------------------------------------------------------------------------
 
-To-do:-
+## To-do
 
---------------------------------------------------------------------------------
 
-[x] styling start pages
 
-[x]* "add/remove input field rows dynamically" functionality
+- styling start pages
 
-[x] insert/retrieve data values from response sheet to DB (MySQL) and vice versa
+- "add/remove input field rows dynamically" functionality
 
-[x]** considering basic scenarios | reflecting the changes + saving response sheet structure by storing it in DB
+- insert/retrieve data values from response sheet to DB (MySQL) and vice versa
 
-[-]*** migration from PHP/MySQL-DB to PHP/Oracle-11g-DB
+- considering basic scenarios | reflecting the changes + saving response sheet structure by storing it in DB
 
-[x] final touch/finishing/styling
+- migration from PHP/MySQL-DB to PHP/Oracle-11g-DB
 
----------------------------------------------------------------------------------
+- final touch/finishing/styling
 
----------------------------------------------------------------------------------
 
-Some Constraints & Instructions to setup:-
 
-----------------------------------------------------------------------------------
+## Some Constraints & Instructions to setup:-
+
+
 
 (1).In upper table structure admins can add max. of 35 rows
 
@@ -43,11 +40,11 @@ Some Constraints & Instructions to setup:-
 
 (6).Start with "login.php" in your browser
 
-----------------------------------------------------------------------------------
 
-Some Screenshots of the same
+
+## Some Screenshots of the same
  
-----------------------------------------------------------------------------------
+
 
 ![](https://github.com/parthvyas7/IT-Asset-Management-WebApp/blob/master/img/localhost_test_login.php.png "screenshot 1")
 
