@@ -13,7 +13,7 @@ It is basically partial project (server-side) for assisting in sending IT assets
 
 - insert/retrieve data values from response sheet to DB (MySQL) and vice versa
 
-- considering basic scenarios | reflecting the changes + saving response sheet structure by storing it in DB
+- considering basic scenarios & reflecting the changes + saving response sheet structure by storing it in DB
 
 - migration from PHP/MySQL-DB to PHP/Oracle-11g-DB
 
