@@ -25,20 +25,20 @@ It is basically partial project (server-side) for assisting in sending IT assets
 
 
 
-(1).In upper table structure admins can add max. of 35 rows
+1. In upper table structure admins can add max. of 35 rows
 
-(2).In lower table structure admins can add max. of 20 rows
+2. In lower table structure admins can add max. of 20 rows
 
-(3).Default value for every field is defined for a purpose, user should not leave any field empty (either '-' OR some non-null string)
+3. Default value for every field is defined for a purpose, user should not leave any field empty (either '-' OR some non-null string)
 
-(4).Import "queries.sql" file onto your DB (specifically MySQL DB) & default user type is in non-admin mode so if you want to change it to admin mode then do it directly via DB changes
+4. Import "queries.sql" file onto your DB (specifically MySQL DB) & default user type is in non-admin mode so if you want to change it to admin mode then do it directly via DB changes
 
-(5).Turn off php error reporting functionality by configuring in "php.ini" file
+5. Turn off php error reporting functionality by configuring in "php.ini" file
   - find display_errors=On
 
   - set as display_errors=0
 
-(6).Start with "login.php" in your browser
+6. Start with "login.php" in your browser
 
 
 
