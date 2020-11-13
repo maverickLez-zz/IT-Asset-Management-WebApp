@@ -46,7 +46,7 @@ It is basically partial project (server-side) for assisting in sending IT assets
  
 
 
-![](https://github.com/parthvyas7/IT-Asset-Management-WebApp/blob/master/img/localhost_test_login.php.png "screenshot 1")
+![](localhost_test_login.php.png "screenshot 11")
 
 ![](https://github.com/parthvyas7/IT-Asset-Management-WebApp/blob/master/img/localhost_test_welcome.php%20(1).png "screenshot 2")
 
